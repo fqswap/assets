@@ -1,0 +1,14 @@
+{
+    "name": "BNBCLICK",
+    "type": "BEP20",
+    "symbol": "BNBCLICK",
+    "decimals": 18,
+    "website": "https://fqswap.org",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x8fec9a2f5340680f9483469e0e51775ac1525f17",
+    "status": "active",
+    "id": "0x156df0dd6300C73ac692D805720967cf4464776e",
+  "tags": [
+        "meme"
+    ],
+}
